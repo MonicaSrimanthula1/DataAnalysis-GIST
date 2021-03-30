@@ -1,0 +1,52 @@
+    1  pd
+    2  ls
+    3  touch demo.txt
+    4  ls
+    5  mkdir GIST
+    6  ls
+    7  cd GIST
+    8  pwd
+    9  cd ..
+   10  cd ee
+   11  cd e:
+   12  cd d:
+   13  cd c:
+   14  cd Users/dell/Desktop/Monica-4c2
+   15  echo {1..100}
+   16  touch file{1..100}.txt
+   17  touch python{20..50}.py
+   18  touch clanguage{50..70}.cpp
+   19  pwd
+   20  ls
+   21  rmdir GIST
+   22  rm demo.txt
+   23  ls
+   24  rm file{1..10}.txt
+   25  ls
+   26  ls
+   27  rm file{50..100}.txt
+   28  ls
+   29  rm clanguage{50..100}.cpp
+   30  rm *.py
+   31  ls
+   32  rm *.txt
+   33  ls
+   34  rm *.py
+   35  ls
+   36  nano myfile.txt
+   37  cat myfile.txt
+   38  echo "Hello">>myfile.txt
+   39  cat myfile.txt
+   40  echo "Hello">>myfile2.txt
+   41  cat myfile2.txt
+   42  echo {1..100}>>myfile3.txt
+   43  cat myfile3.txt
+   44  mv myfile2.txt
+   45  mv myfile3.txt myfile2.txt
+   46  cat myfile2.txt
+   47  ls
+   48  cp myfile2.txt myfile3.txt
+   49  cp myfile2.txt myfile.txt
+   50  cat myfile.txt
+   51  history
+   52  history>>history.txt
